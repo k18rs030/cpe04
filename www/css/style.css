@@ -71,4 +71,11 @@
       background: skyblue;
     }
 
+    Button {
+      color: bule;
+      font-style: italic;
+      border-radius: 20%;
+
+    }
+
     
